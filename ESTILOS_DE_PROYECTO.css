@@ -1,0 +1,25 @@
+header{
+    background-color: aqua;
+} 
+
+h1{
+    font-size: 80px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+} 
+header,section,footer,aside,nav,article{
+    border: 5px solid black;
+} 
+ 
+.menu li{
+    list-style: none;
+    border: 3px solid rgb(16, 0, 247);
+padding: 10px;
+font:bold 20px verdana;
+display: inline-block;
+}
+
+img {
+    width: 700px;
+    display: block;
+
+}
