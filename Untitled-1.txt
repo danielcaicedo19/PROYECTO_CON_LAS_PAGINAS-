@@ -1,0 +1,77 @@
+
+<html>
+
+<head>
+<title>proyecto de matematicas</title> 
+</head>
+<body> 
+<?php
+/*
+echo "<h1>proyecto</h1>";
+echo "<h1>proyecto</h1>";
+echo "<h1>proyecto</h1>";
+
+*/
+$nombre="alpina";
+ echo" mi nombre es"; .$ nombre; 
+
+ #variable
+
+
+ define("leche", 2.000);
+
+ echo "El valor de leche es " . leche;
+
+ define("queso", 5.000);
+ echo "El valor de queso es". queso;
+
+ define("yogurt", 3.000);
+ echo "El valor de yogurt es". yogurt;
+
+ echo "5.000 + 2.000" . (5.000+2.000) . "<br/>";   
+ 
+ echo "5.000 + 2.000" . (5.000+2.000) . "<br/>";   
+
+echo "5.000 * 2.000" . (5.000*2.000) . "<br/>"; 
+
+echo "5.000 - 2.000" . (5.000-2.000) . "<br/>"; 
+
+echo "5.000 - 2.000" . (5.000-2.000) . "<br/>";
+
+echo "5.000 * 2.000" . (5.000*2.000) . "<br/>";
+
+  
+
+//referncia//
+ 
+ $minumero1= 6;
+ $refnumero1=&$minumero1;
+
+ $minumero1=19;
+
+ echo $refnumero1;//19
+
+ /*condisionales*/  
+ 
+/*falso o verdad*/
+
+$elarequipe
+ if(elarequipe > verdad ){
+echo "si es arequipe lo compro verdad";
+ }else{ no compro el arequipe";
+
+
+$elkumis
+ if(elkumis > verdad ){
+echo "si es kumis lo compro verdad";
+ }else{ no compro el kumis";
+
+ }
+
+
+
+
+?>
+</body>
+
+</html>
